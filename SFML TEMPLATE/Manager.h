@@ -12,7 +12,7 @@
 #define OPÇÕES 2
 #define GAMEOVER 3
 #define QUIT 4
-
+//
 struct Menu
 {
 	sf::Sprite m_sprite;
